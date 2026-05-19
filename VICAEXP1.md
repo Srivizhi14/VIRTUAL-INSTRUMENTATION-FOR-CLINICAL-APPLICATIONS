@@ -24,6 +24,8 @@ To perform basic arithmetic operations (Addition, Subtraction, Multiplication, D
 ---
 
 ##  Front Panel Layout
+<img width="786" height="612" alt="image" src="https://github.com/user-attachments/assets/2fdb2413-7e9a-4b9a-91d7-c5d7deaca713" />
+
 
 <img width="784" height="551" alt="image" src="https://github.com/user-attachments/assets/b6e23d07-c9a0-4289-9af7-3d02ff4f142a" />
 
