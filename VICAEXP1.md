@@ -35,7 +35,6 @@ To perform basic arithmetic operations (Addition, Subtraction, Multiplication, D
 
 <img width="896" height="726" alt="image" src="https://github.com/user-attachments/assets/ef422bb2-c750-4956-8c01-07ea9d6129b9" />
 
-<img width="784" height="551" alt="image" src="https://github.com/user-attachments/assets/b6e23d07-c9a0-4289-9af7-3d02ff4f142a" />
 
 ---
 
